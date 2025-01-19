@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 16.1
 Small_Fan
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 // 当按下复位键或上电主板时，设置功能运行一次。
 void setup() {
