@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KE3013 KE3014 Keyes Arduino学习套件基础版 带开发板
+   :caption: KE3013 KE3014 KE3089 KE3090 KE3091 Keyes Arduino学习套件基础版 带开发板
 
 
    README.md
