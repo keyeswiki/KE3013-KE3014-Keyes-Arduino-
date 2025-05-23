@@ -4,7 +4,7 @@ Scratch 课程
 下载课程
 --------
 
--:download:`Scratch课程 <./Scratch课程.7z>`
+:download:`Scratch课程 <./Scratch课程.7z>`
 
 KidsBlock软件的使用说明：
 -------------------------

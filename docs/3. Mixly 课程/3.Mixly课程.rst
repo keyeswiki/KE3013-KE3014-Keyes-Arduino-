@@ -4,9 +4,9 @@ Mixly 课程
 下载课程和库
 ------------
 
--:download:`Mixly课程 <./Mixly课程.7z>`
+:download:`Mixly课程 <./Mixly课程.7z>`
 
--:download:`Mixly库文件 <./Mixly库文件.zip>`
+:download:`Mixly库文件 <./Mixly库文件.zip>`
 Mixly 软件
 ----------
 

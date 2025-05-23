@@ -4,9 +4,9 @@ Arduino 课程
 资料下载
 --------
 
--:download:`项目代码 <./项目代码.zip>`__
+:download:`项目代码 <./项目代码.zip>`
 
--:download:`Arduino库文件 <./Arduino库文件.zip>`__
+:download:`Arduino库文件 <./Arduino库文件.zip>`
 
 Arduino软件
 -----------
