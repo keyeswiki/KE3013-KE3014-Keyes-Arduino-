@@ -7,8 +7,7 @@ Mixly 课程
 :download:`Mixly课程 <./Mixly课程.7z>`
 
 :download:`Mixly库文件 <./Mixly库文件.zip>`
-Mixly 软件
-----------
+
 
 1.Mixly 软件下载、安装及更新
 
