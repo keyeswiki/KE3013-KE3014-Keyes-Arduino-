@@ -6,7 +6,7 @@ Arduino 课程
 
 :download:`项目代码 <./项目代码.zip>`
 
-:download:库文件 <./Arduino库文件.zip>`
+:download:`库文件 <./Arduino库文件.zip>`
 
 Arduino软件
 -----------
