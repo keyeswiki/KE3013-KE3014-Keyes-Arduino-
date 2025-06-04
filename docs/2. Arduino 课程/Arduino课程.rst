@@ -6,7 +6,7 @@ Arduino 课程
 
 **Arduino资料包含库文件、项目代码、驱动，请点击下载才能进行后续的学习！！！！**
 
-下载：:download:`Arduino资料 <./Arduino>`
+下载：:download:`Arduino资料 <./Arduino.7z>`
 
 2. Windows系统软件下载安装与配置（请按系统选择）
 ------------------------------------------------
