@@ -6,7 +6,7 @@ Arduino 课程
 
 **Arduino资料包含库文件、项目代码、驱动，请点击下载才能进行后续的学习！！！！**
 
-下载：\ `Arduino资料 <./Arduino>`__
+下载：:download:`Arduino资料 <./Arduino>`
 
 2. Windows系统软件下载安装与配置（请按系统选择）
 ------------------------------------------------
@@ -63,7 +63,6 @@ window 系统为例.（\ |image1|)
 .. figure:: ./media/4-1748577322114-2.png
    :alt: image-20250528023804455
 
-   image-20250528023804455
 
 4.驱动安装
 
@@ -72,7 +71,7 @@ window 系统为例.（\ |image1|)
 .. figure:: ./media/image-20250603194411878.png
    :alt: image-20250603194411878
 
-   image-20250603194411878
+
 
 1、鼠标右击\ **“CP2102 USB to UART Bridge
 Controller”**\ ，弹出框中选择\ **“更新驱动程序（P）”**.
@@ -131,7 +130,6 @@ Uno”**\ ，串口为/dev/cu.usbserial-0001。
 .. figure:: ./media/image-20250603194411878.png
    :alt: image-20250603194411878
 
-   image-20250603194411878
 
 （3）解压下载好的压缩包。
 
