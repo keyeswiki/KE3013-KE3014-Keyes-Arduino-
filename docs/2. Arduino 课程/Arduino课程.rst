@@ -6,7 +6,7 @@ Arduino 课程
 
 **Arduino资料包含库文件、项目代码、驱动，请点击下载才能进行后续的学习！！！！**
 
-下载：:download:`Arduino资料 <./Arduino.7z>`
+下载：\ `Arduino资料 <./Arduino>`__
 
 2. Windows系统软件下载安装与配置（请按系统选择）
 ------------------------------------------------
@@ -14,7 +14,8 @@ Arduino 课程
 2.1 软件下载
 ~~~~~~~~~~~~
 
-1、打开 Software \| Arduino 下载软件，然后选择对应的系统下载，下⾯以
+1、打开\ `Software \|
+Arduino <https://www.arduino.cc/en/software>`__\ 下载软件，然后选择对应的系统下载，下⾯以
 window 系统为例.（\ |image1|)
 
 **注意：win11系统点击\ \ 此处进行到下载页面\ ,无需进行第2步操作.**
@@ -62,6 +63,7 @@ window 系统为例.（\ |image1|)
 .. figure:: ./media/4-1748577322114-2.png
    :alt: image-20250528023804455
 
+   image-20250528023804455
 
 4.驱动安装
 
@@ -69,6 +71,8 @@ window 系统为例.（\ |image1|)
 
 .. figure:: ./media/image-20250603194411878.png
    :alt: image-20250603194411878
+
+   image-20250603194411878
 
 1、鼠标右击\ **“CP2102 USB to UART Bridge
 Controller”**\ ，弹出框中选择\ **“更新驱动程序（P）”**.
@@ -127,6 +131,7 @@ Uno”**\ ，串口为/dev/cu.usbserial-0001。
 .. figure:: ./media/image-20250603194411878.png
    :alt: image-20250603194411878
 
+   image-20250603194411878
 
 （3）解压下载好的压缩包。
 
@@ -2878,7 +2883,6 @@ LCD显示A1引脚的电压值和当前环境中的温度值。同时打开串口
 .. |image10| image:: ./media/3-1748577322114-6.png
 .. |image11| image:: ./media/5-1748577322114-4.png
 .. |image12| image:: ./media/6-1748577322114-5.png
-.. |image-20250528182429599| image:: ./media/7-1748577322114-7.png
 .. |image13| image:: ./media/8-1748577322114-8.png
 .. |image14| image:: ./media/9-1748577322114-9.png
 .. |image15| image:: ./media/10-1748577322114-10.png
